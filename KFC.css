@@ -1,0 +1,221 @@
+.main{
+    width: 100%;
+    height: 100%;
+    background-color:black;
+}.navigation{
+    width: 100%;
+    height: 84px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    z-index: 1000;
+}.innr-navi{
+    width: 163px;
+    height: 59px;
+    background-color: azure;
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    
+}.navigation-logo{
+    width: 266px;
+    height: 84px;
+    background-color:#fff;
+    display: flex;
+    justify-content: space-around;
+    
+
+}body{
+    margin: 0;
+    color: #fff;
+    
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";;
+}.order-bar{
+    width: 100%;
+    height: 84px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    top: 83px;
+    position: relative;
+}.order-btn{
+   width: 123px;
+   height: 39px;
+   background-color: red; 
+   display: flex;
+   border-radius: 30px;
+    position: relative;
+    top: 25px;
+    left: 10px;
+}.general-table{
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+    position: relative;
+    
+}.t-heading{
+    width: 284px;
+    height:52px ;
+    background-color:#fff;
+    position: relative;
+    left: 59px;
+    text-align: center;
+    color: black;
+}.catagories{
+    width: 95%;
+    height: 42%;
+    background-color:;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    left: 36px;
+}.s-catagaries{
+    width: 255px;
+    height: 177px;
+    background-color: ;
+    display: flex;
+    flex-direction: column;
+}.image{
+    height: 200px;
+}.t-pic{
+    width: 100%;
+    height: 30%;
+    background-color:whitesmoke;
+    display: flex;
+    color: black;
+}.PICK{
+    width: 100%;
+    height: 70%;
+    background-color: #fff;
+    display: flex;
+}.p-image{
+    width: 100%;
+}.t-pic-txt{
+    position: relative;
+    left: 22px;
+    font-size: 15px;
+}.offer{
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    
+}.small-cube{
+    width: 17px;
+    height: 31px;
+    background-color: red;
+    display: flex;
+
+}.cube{
+width: 65px;
+height:40px ;
+
+display: flex;
+justify-content: space-around;
+position: relative;
+left: 200px;
+
+}.offer-h3{
+    width: 100%;
+    height: 50px;
+    background-color: ;
+    display: flex;
+}.ex-offer{
+    width: 93%;
+    height: 395px;
+    background-color: ;
+    display: flex;
+    position: relative;
+    left: 55px;
+    top: 19px;
+    display: flex;
+    justify-content: space-between;
+}.ex-cube{
+    width: 25%;
+    height: 100%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+}.excube{
+    height: 65%;
+    background-color: blueviolet;
+    display: flex;
+
+}.t-cube{
+    height: 35%;
+    background-color: blue;
+    display: flex;
+    
+}.offersImageText-background{
+    width: 100%;
+}.offercard-text,.offercard-title{
+    display: flex;
+    flex-direction: column;
+}.s-tube{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}.ordr-btn{
+    display: flex;
+    position: relative;
+    left: 183px;
+    width: 98px;
+    border-radius: 30px;
+    height: 30px;
+    text-align: center;
+    top: -16px;
+
+}.footer{
+    width: 100%;
+    height: 283px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 50px;
+    flex-direction: column;
+}
+.one,.kfc-footer-logo,.two,.f-f,.twitter,.facebook,.instagram{
+   
+    display: flex;
+}.two{
+    background-color: ;
+}.kfc-footer-logo{
+    height: 50px;
+}.four{
+    background-color: ;
+}.three{
+    font-size: x-small;
+}.l-footer{
+    width: 100%;
+    height: 15%;
+    background-color:black;
+    display: flex;
+    justify-content: end;
+}.f-f{
+    justify-content: space-evenly;
+    height: 85%;
+}.l-logos{
+    width: 100px;
+    height: 30px;
+    background-color:;
+    display: flex;
+    right: 118px;
+    position: relative;
+}.l-text{
+    width: 384px;
+    height:30px ;
+    background-color: ;
+    position: relative;
+    right: 500px;
+}.marketing-poster{
+    
+    position: relative;
+    top: 85px;
+}
+
+
